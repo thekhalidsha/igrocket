@@ -1,0 +1,42 @@
+2021-06-15 09:16:35,174 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-06-15 09:16:35,176 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /storage/emulated/0/IG-Feedify-main/instabot/bot/bot.py
+2021-06-15 09:17:18,051 - instabot version: 0.117.0 (api_login) - INFO - Trying to LOGIN!!
+2021-06-15 09:17:18,606 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-06-15 09:17:19,270 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-15 09:17:19,765 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-15 09:17:20,295 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2021-06-15 09:17:23,244 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2021-06-15 09:17:23,245 - instabot version: 0.117.0 (api) - INFO - Hello, 'cyber_noob_arena_'!
+2021-06-15 09:17:23,245 - instabot version: 0.117.0 (api_login) - INFO - Logged in to IG-Hiker: True
+2021-06-15 09:17:23,725 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-15 09:17:24,269 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2021-06-15 09:17:24,774 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-1485d0bf932e4daf&token_hash=&custom_device_id=android-1485d0bf932e4daf&fetch_reason=token_expired returned response: <Response [200]>
+2021-06-15 09:17:25,302 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2021-06-15 09:17:26,023 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-06-15 09:17:26,795 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2021-06-15 09:17:27,310 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2021-06-15 09:17:28,280 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-06-15 09:17:30,179 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-06-15 09:17:30,718 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2021-06-15 09:17:31,756 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2021-06-15 09:17:32,285 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2021-06-15 09:17:33,139 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2021-06-15 09:17:33,976 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2021-06-15 09:17:34,537 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2021-06-15 09:17:35,095 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2021-06-15 09:17:35,911 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2021-06-15 09:17:36,548 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2021-06-15 09:17:37,103 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2021-06-15 09:17:38,037 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/44700572772/info/ returned response: <Response [200]>
+2021-06-15 09:17:39,088 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-06-15 09:17:40,767 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2021-06-15 09:17:41,669 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2021-06-15 09:17:43,284 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=ec7f5880-8603-4019-add9-23ad05ae414b&include_fixed_destinations=true returned response: <Response [200]>
+2021-06-15 09:17:43,863 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2021-06-15 09:17:46,776 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2021-06-15 09:17:46,780 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: /storage/emulated/0/IG-Feedify-main/config/cyber_noob_arena_.checkpoint
+2021-06-15 09:17:46,781 - instabot version: 0.117.0 (bot_like) - INFO - Liking timeline feed:
+2021-06-15 09:17:48,076 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-06-15 09:17:48,083 - instabot version: 0.117.0 (bot_filter) - INFO - Received 8 medias.
+2021-06-15 09:17:48,084 - instabot version: 0.117.0 (bot_filter) - INFO - After filtration 0 medias left.
+2021-06-15 09:17:48,085 - instabot version: 0.117.0 (bot_like) - INFO - Nothing to like.

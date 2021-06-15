@@ -1,0 +1,5 @@
+2021-06-15 10:19:39,846 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-06-15 10:19:39,846 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /storage/emulated/0/IG-Feedify-main/IGRocket/instabot/bot/bot.py
+2021-06-15 10:19:48,899 - instabot version: 0.117.0 (api_login) - INFO - Trying to LOGIN!!
+2021-06-15 10:19:49,404 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-06-15 10:19:49,915 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
